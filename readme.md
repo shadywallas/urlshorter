@@ -1,3 +1,22 @@
+## To run this application 
+
+clone it .
+
+`git clone https://github.com/shadywallas/urlshorter.git`
+
+run from command line
+`$composer install`
+
+ `php artisan migrate` 
+
+ `phpunit` 
+ 
+ to make sure all are success
+
+Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
