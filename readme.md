@@ -16,8 +16,10 @@ Copy .env.example  to .env and fill in the database information then run
  
  to make sure all are success
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
+The main Controller is [ApiController](https://github.com/shadywallas/urlshorter/blob/master/app/Http/Controllers/ApiController.php) and [HomeController](https://github.com/shadywallas/urlshorter/blob/master/app/Http/Controllers/HomeController.php) 
+
+and the main manager is [UrlShortener](https://github.com/shadywallas/urlshorter/blob/master/app/Managers/UrlShortener.php)
 
 
 # Laravel PHP Framework
