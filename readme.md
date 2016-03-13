@@ -7,6 +7,9 @@ clone it .
 run from command line
 `$composer install`
 
+
+Copy .env.example  to .env and fill in the database information then run 
+
  `php artisan migrate` 
 
  `phpunit` 
